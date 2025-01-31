@@ -1,0 +1,15 @@
+ 	body{
+      	font-family: 'Times New Roman', serif;
+      		}
+      	kbd,p{
+      		font-size: 50px;
+
+      		}
+      	img{
+      		height: 150px;
+      		width: 140px;
+      	}
+      	a{
+      		margin-left: 20px;
+      		margin-right: 20px;
+      	}
